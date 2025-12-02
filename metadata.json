@@ -1,0 +1,8 @@
+{
+  "name": "WonderKids Adventure",
+  "description": "A comprehensive educational game platform for 5-6 year olds featuring character selection, AI video generation (Veo), real-time voice conversation (Live API), magic image editing, and BİLSEM-inspired logic puzzles.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
